@@ -138,5 +138,5 @@ You can get all details from [here](https://github.com/jobs-github/slothjson).
 
 ## More ##
 
-- Sister - [slothxml](https://github.com/jobs-github/slothxml)
+- Sister - [slothjson](https://github.com/jobs-github/slothjson)
 - High-performance Distributed Storage - [huststore](https://github.com/Qihoo360/huststore)
