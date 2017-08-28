@@ -138,5 +138,7 @@ You can get all details from [here](https://github.com/jobs-github/slothjson).
 
 ## More ##
 
-- Sister - [slothjson](https://github.com/jobs-github/slothjson)
-- High-performance Distributed Storage - [huststore](https://github.com/Qihoo360/huststore)
+- Yet Another Schema - [yas](https://github.com/jobs-github/yas)  
+- Sister - [slothjson](https://github.com/jobs-github/slothjson)  
+- Scalable & Efficient Serialization Library - [rawbuf](https://github.com/jobs-github/rawbuf)  
+- High-performance Distributed Storage - [huststore](https://github.com/Qihoo360/huststore)  

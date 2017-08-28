@@ -136,5 +136,7 @@
 
 ## 更多 ##
 
-- 姊妹篇 - [slothjson](https://github.com/jobs-github/slothjson)
-- 高性能分布式存储服务 - [huststore](https://github.com/Qihoo360/huststore)
+- Yet Another Schema - [yas](https://github.com/jobs-github/yas)  
+- 姊妹篇 - [slothjson](https://github.com/jobs-github/slothjson)  
+- 高性能可伸缩的序列化库 - [rawbuf](https://github.com/jobs-github/rawbuf)  
+- 高性能分布式存储服务 - [huststore](https://github.com/Qihoo360/huststore)  
